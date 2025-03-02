@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+#TODO: add your domain name here
+sitemap: https:// /sitemap.xml
